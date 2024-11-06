@@ -1,0 +1,8 @@
+fastapi==0.115.4
+uvicorn==0.32.0
+sentence-transformers==3.2.1
+chromadb==0.5.18
+pymupdf==1.22.5
+python-docx==0.8.11
+protobuf==4.23.4
+typing-extensions==4.8.0
